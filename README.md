@@ -1,16 +1,13 @@
-### Hi there 👋
+# Hello, I'm Rupal Gupta 👋
 
-<!--
-**Rupal-Gupta29/Rupal-Gupta29** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Front-end developer specializing in React.js with a passion for MERN stack development.
 
-Here are some ideas to get you started:
+## Technology Stack
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌟 MERN (MongoDB, Express.js, React, Node.js)
+- 🌟 Python, Django, tkinter
+- 🌟 Bootstrap, tailwind
+- 🌟 Sitecore
+
+Let's collaborate and learn together!
+
