@@ -1,6 +1,6 @@
 # Hello, I'm Rupal Gupta
 
-### Front-end developer specializing in React.js with a passion for MERN stack development.
+Front-end developer specializing in React.js with a passion for MERN stack development.
 
 ## Technology Stack
 
