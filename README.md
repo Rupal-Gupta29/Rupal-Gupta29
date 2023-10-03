@@ -4,10 +4,10 @@ Front-end developer specializing in React.js with a passion for MERN stack devel
 
 ## Technology Stack
 
- 💡 MERN (MongoDB, Express.js, React, Node.js)
- 🌐 Python, Django, tkinter
- 🧠 Bootstrap, tailwind
- 💻 Sitecore
+ - 💡 MERN (MongoDB, Express.js, React, Node.js)
+ - 🌐 Python, Django, tkinter
+ - 🧠 Bootstrap, tailwind
+ - 💻 Sitecore
 
 Let's collaborate and learn together!
 
