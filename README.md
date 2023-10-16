@@ -1,4 +1,4 @@
-
+## Hi, I'm Rupal Gupta
 Front-end developer specializing in React.js with a passion for MERN stack development.
 
  - 💡 MERN (MongoDB, Express.js, React, Node.js)
