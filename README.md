@@ -8,6 +8,7 @@ My Techstack :
  - Bootstrap, tailwind
  - Firebase
  - Sitecore
+ - Next Js
 
 Let's collaborate and learn together!
 
