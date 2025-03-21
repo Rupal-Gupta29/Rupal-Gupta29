@@ -3,12 +3,12 @@ Hi, I'm Rupal Gupta
 Front-end developer specializing in React.js with a passion for MERN stack development.
 
 My Techstack :
- - MERN (MongoDB, ExpressJs, ReactJs, NodeJs)
+ - Next Js
  - Python, Django, tkinter
  - Bootstrap, tailwind
  - Firebase
  - Sitecore
- - Next Js
+ - MERN (MongoDB, ExpressJs, ReactJs, NodeJs)
 
 Let's collaborate and learn together!
 
